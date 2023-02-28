@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+### I'm Phoebe Akinwale, a data analyst,currently working as a Computer teacher in a secondary school.
+ As an avid reader and learner, I'm interested in opportunity to collaborate with data professionals and participate in challenges to enhance my careeer development. 
+ 
+Fun fact: I love to cook
 <!--
 **phoebewal/phoebewal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
